@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Helveticalalala;
+    font-size: 22px
+    
+}
+
+h1 {
+    color: yellow ;
+    text-align: center;
+}
+
+.big_div{
+    border: 3px solid blue; 
+    margin: 30px;
+    padding: 20px;
+}
+
+.pokemon_name {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px;
+}
+.sub_div {
+    display: flex;
+}
+
+img {
+    width: 200px;
+    padding-right: 50px;
+}
+
+#special {
+    font-weight: nold;
+    color:yellow;
+
+    
+}
